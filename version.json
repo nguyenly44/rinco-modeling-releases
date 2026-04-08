@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "releaseDate": "2026-04-08",
+  "releaseNotes": [
+    "✅ Phát hành phiên bản đầu tiên",
+    "⚡ Bao gồm: Bubble Grids, Disallow Wall Joins, Link To Model",
+    "⚡ Bao gồm: Add NS-EW, Floor Separation, Add Views To Sheets",
+    "⚡ Bao gồm: Rename Views, Revision Manager, Arrange Views"
+  ],
+  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.1/RincoModeling.zip",
+  "minRevitVersion": "2022",
+  "mandatory": false
+}
