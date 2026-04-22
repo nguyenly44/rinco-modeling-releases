@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "releaseDate":  "2026-04-08",
     "releaseNotes":  [
                     
-                         "New Update"
+                         "Đúng là như vậy rồi"
                      ],
     "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.3/RincoModeling.msi",
     "minRevitVersion":  "2022",
