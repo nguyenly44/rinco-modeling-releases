@@ -5,7 +5,7 @@
                          "Added Member Management",
                          "Added Auto-Update notifications"
                      ],
-    "downloadUrl":  "https://raw.githubusercontent.com/nguyenly44/rinco-modeling-releases/main/Review/CheckListToolSetup.msi",
+    "downloadUrl":  "https://raw.githubusercontent.com/nguyenly44/rinco-modeling-releases/main/CheckListToolSetup.msi",
     "mandatory":  false,
     "releaseDate":  "24/04/2026",
     "minRevitVersion":  "2022"
