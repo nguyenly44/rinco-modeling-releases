@@ -74,6 +74,10 @@
               "IsChecked": false
             },
             {
+              "Text": "New Item",
+              "IsChecked": false
+            },
+            {
               "Text": "Nguyen",
               "IsChecked": false
             }
