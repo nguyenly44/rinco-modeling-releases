@@ -1,11 +1,12 @@
 {
-    "version":  "1.0.5",
-    "releaseDate":  "2026-04-22",
+    "version":  "1.0.5.1",
     "releaseNotes":  [
-                    
-                         "Đúng là như vậy rồi"
+                         "Fixed 409 Conflict error",
+                         "Added Member Management",
+                         "Added Auto-Update notifications"
                      ],
-    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.5/RincoModeling.msi",
-    "minRevitVersion":  "2022",
-    "mandatory":  false
+    "downloadUrl":  "https://raw.githubusercontent.com/nguyenly44/rinco-modeling-releases/main/Review/CheckListToolSetup.msi",
+    "mandatory":  false,
+    "releaseDate":  "24/04/2026",
+    "minRevitVersion":  "2022"
 }
