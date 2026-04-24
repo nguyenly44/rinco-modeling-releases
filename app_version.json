@@ -1,0 +1,12 @@
+{
+    "version":  "1.0.5.1",
+    "releaseNotes":  [
+                         "Fixed 409 Conflict error",
+                         "Added Member Management",
+                         "Added Auto-Update notifications"
+                     ],
+    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.5.1/CheckListToolSetup.msi",
+    "mandatory":  false,
+    "releaseDate":  "24/04/2026",
+    "minRevitVersion":  "2022"
+}
