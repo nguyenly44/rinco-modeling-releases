@@ -1,0 +1,57 @@
+{
+    "groups": [
+        {
+            "title": "STR",
+            "categories": [
+                {
+                    "title": "GA PLAN",
+                    "header": "GA PLAN",
+                    "items": [
+                        {
+                            "text": "TAG HOST, FULL TAG",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "DIMENSION",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "STEP/ CAO ĐỘ",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "TEXT 2.5 mm",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "CLEAR CLASH 2D",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "VIEW RANGER, OVER & UNDER",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "SHOW SECTION",
+                            "isChecked": false
+                        }
+                    ]
+                },
+                {
+                    "title": "COLUMN",
+                    "header": "COLUMN",
+                    "items": [
+                        {
+                            "text": "Check dimension",
+                            "isChecked": false
+                        },
+                        {
+                            "text": "Check reinforcement",
+                            "isChecked": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
