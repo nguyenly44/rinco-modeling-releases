@@ -76,6 +76,10 @@
             {
               "Text": "Nguyen",
               "IsChecked": false
+            },
+            {
+              "Text": "nguyen",
+              "IsChecked": false
             }
           ]
         },
@@ -113,7 +117,7 @@
   "User": {
     "Name": "Nguyen Ly",
     "Project": "DLD",
-    "AvatarPath": "C:\\Users\\nguyen\\Downloads\\import.png"
+    "AvatarPath": "C:\\Users\\nguyen\\Downloads\\detail_item_inspector_workflow.png"
   },
   "Projects": [
     "SPRINGVALE",
@@ -158,5 +162,5 @@
     "DLD",
     "570LB"
   ],
-  "SelectedProject": "SPRINGVALE"
+  "SelectedProject": null
 }
