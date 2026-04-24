@@ -1,57 +1,162 @@
 {
-    "groups": [
+  "Groups": [
+    {
+      "Title": "STR",
+      "IsSelected": true,
+      "Categories": [
         {
-            "title": "STR",
-            "categories": [
-                {
-                    "title": "GA PLAN",
-                    "header": "GA PLAN",
-                    "items": [
-                        {
-                            "text": "TAG HOST, FULL TAG",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "DIMENSION",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "STEP/ CAO ĐỘ",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "TEXT 2.5 mm",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "CLEAR CLASH 2D",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "VIEW RANGER, OVER & UNDER",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "SHOW SECTION",
-                            "isChecked": false
-                        }
-                    ]
-                },
-                {
-                    "title": "COLUMN",
-                    "header": "COLUMN",
-                    "items": [
-                        {
-                            "text": "Check dimension",
-                            "isChecked": false
-                        },
-                        {
-                            "text": "Check reinforcement",
-                            "isChecked": false
-                        }
-                    ]
-                }
-            ]
+          "Title": "GENERAL NOTE",
+          "Header": null,
+          "DisplayHeader": "GENERAL NOTE",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "LOADING PLAN",
+          "Header": null,
+          "DisplayHeader": "LOADING PLAN",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "SITE RETENTION",
+          "Header": null,
+          "DisplayHeader": "SITE RETENTION",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "FOUNDATIONS",
+          "Header": null,
+          "DisplayHeader": "FOUNDATIONS",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "COLUMN",
+          "Header": null,
+          "DisplayHeader": "COLUMN",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "GA PLAN",
+          "Header": null,
+          "DisplayHeader": "GA PLAN",
+          "IsSelected": true,
+          "Items": [
+            {
+              "Text": "TAG HOST, FULL TAG",
+              "IsChecked": false
+            },
+            {
+              "Text": "DIMENSION",
+              "IsChecked": false
+            },
+            {
+              "Text": "STEP/ CAO \u0110\u1ED8",
+              "IsChecked": false
+            },
+            {
+              "Text": "TEXT 2.5 mm",
+              "IsChecked": false
+            },
+            {
+              "Text": "CLEAR CLASH 2D",
+              "IsChecked": false
+            },
+            {
+              "Text": "VIEW RANGER, OVER \u0026 UNDER",
+              "IsChecked": false
+            },
+            {
+              "Text": "SHOW SECTION",
+              "IsChecked": false
+            },
+            {
+              "Text": "Nguyen",
+              "IsChecked": false
+            }
+          ]
+        },
+        {
+          "Title": "ELEVATION WALL",
+          "Header": null,
+          "DisplayHeader": "ELEVATION WALL",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "CONCRETE SECTION",
+          "Header": null,
+          "DisplayHeader": "CONCRETE SECTION",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "TYPICAL DETAIL",
+          "Header": null,
+          "DisplayHeader": "TYPICAL DETAIL",
+          "IsSelected": false,
+          "Items": []
+        },
+        {
+          "Title": "STEELWORK",
+          "Header": null,
+          "DisplayHeader": "STEELWORK",
+          "IsSelected": false,
+          "Items": []
         }
-    ]
+      ]
+    }
+  ],
+  "User": {
+    "Name": "Nguyen Ly",
+    "Project": "DLD",
+    "AvatarPath": "C:\\Users\\nguyen\\Downloads\\import.png"
+  },
+  "Projects": [
+    "SPRINGVALE",
+    "FGWB",
+    "CONTITEC",
+    "MEL01CD",
+    "EMBASSY",
+    "373 CROWN",
+    "BEATRICE",
+    "MOORGATE",
+    "580LD",
+    "CROWN M",
+    "FGWC",
+    "ASCOT VALE",
+    "MEL03",
+    "ABCV",
+    "KAI",
+    "LS04",
+    "CW2",
+    "MASCOT",
+    "MAC",
+    "FOOTSCRAY",
+    "ELM GROVE",
+    "PALLADIAN",
+    "SURF PARADISE",
+    "MEL02",
+    "BALMAIN",
+    "SYD01",
+    "SKYVIEW",
+    "FAIRFIELD",
+    "LEEDS",
+    "EBV",
+    "MORAY",
+    "CHAPEL",
+    "OFFICER",
+    "CW3",
+    "AVENUE",
+    "EDEN",
+    "ENCLAVE",
+    "RIVER TERRACE",
+    "RUBY",
+    "DLD",
+    "570LB"
+  ],
+  "SelectedProject": "SPRINGVALE"
 }
