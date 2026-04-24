@@ -72,6 +72,10 @@
             {
               "Text": "SHOW SECTION",
               "IsChecked": false
+            },
+            {
+              "Text": "Nguyen",
+              "IsChecked": false
             }
           ]
         },
