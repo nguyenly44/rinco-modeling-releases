@@ -3,7 +3,7 @@
     "releaseNotes":  [
                          "RincoModeling Revit Plugin Update to 1.0.6"
                      ],
-    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.6/RincoModeling.msi",
+    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.6/RincoModeling.zip",
     "mandatory":  false,
     "releaseDate":  "01/06/2026",
     "minRevitVersion":  "2022"
