@@ -1,10 +1,10 @@
 {
-  "version": "1.0.9",
-  "releaseDate": "2026-06-15",
+  "version": "1.1.0",
+  "releaseDate": "2026-07-01",
   "releaseNotes": [
-    "✅ Sửa lỗi mất một số Icon trên thanh công cụ Revit"
+    "✅ Bổ sung các Icon còn thiếu trong thư mục Resources"
   ],
-  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.0.9/RincoModeling.msi",
+  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.1.0/RincoModeling.msi",
   "minRevitVersion": "2022",
   "mandatory": false
 }
