@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2026-07-01",
+  "version": "1.2.0",
+  "releaseDate": "2026-07-07",
   "releaseNotes": [
-    "✅ Bổ sung các Icon còn thiếu trong thư mục Resources"
+    "✅ Tích hợp công cụ Create Level"
   ],
-  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.1.0/RincoModeling.msi",
+  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.2.0/RincoModeling.msi",
   "minRevitVersion": "2022",
   "mandatory": false
 }
