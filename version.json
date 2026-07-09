@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "releaseDate": "2026-07-07",
+  "version": "1.2.1",
+  "releaseDate": "2026-07-09",
   "releaseNotes": [
-    "✅ Tích hợp công cụ Create Level"
+    "✅ Cập nhật tính năng Override Color và cải thiện hiệu suất"
   ],
-  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.2.0/RincoModeling.msi",
+  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.2.1/RincoModeling.msi",
   "minRevitVersion": "2022",
   "mandatory": false
 }
