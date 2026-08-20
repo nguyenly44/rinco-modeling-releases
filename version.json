@@ -1,10 +1,10 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "releaseDate": "2026-07-17",
   "releaseNotes": [
     "✅ Bổ sung icon cho Create Fold và Override Color"
   ],
-  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.2.5/RincoModeling.msi",
+  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.2.6/RincoModeling.msi",
   "minRevitVersion": "2022",
   "mandatory": false
 }
