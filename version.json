@@ -1,10 +1,13 @@
-{
-  "version": "1.2.7",
-  "releaseDate": "2026-07-17",
-  "releaseNotes": [
-    "✅ Bổ sung icon cho Create Fold và Override Color"
-  ],
-  "downloadUrl": "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v1.2.7/RincoModeling.msi",
-  "minRevitVersion": "2022",
-  "mandatory": false
+﻿{
+    "version":  "2.0.0",
+    "releaseNotes":  [
+                         "License check and login logging handled by the Revit tool",
+                         "New License button in palette: Outlook email, role, expiry, request license",
+                         "Views and Sheets sidebar navigation",
+                         "New Tool Palette ribbon icon"
+                     ],
+    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.0/ApexModeling.msi",
+    "mandatory":  false,
+    "releaseDate":  "2026-10-14",
+    "minRevitVersion":  "2022"
 }
