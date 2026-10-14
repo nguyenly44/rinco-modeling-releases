@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.1",
+    "version":  "2.0.2",
     "releaseNotes":  [
-                         "Arrange: only the topmost viewport keeps its title, all others switch to No Title",
-                         "Arrange: no longer turns titles on when the source viewport has none"
+                         "Fixed Combine PDF failure when the add-in is loaded twice (bundle + Add-In Manager)",
+                         "Assembly resolvers no longer return copies from another load context"
                      ],
-    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.1/ApexModeling.msi",
+    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.2/ApexModeling.msi",
     "mandatory":  false,
     "releaseDate":  "2026-10-14",
     "minRevitVersion":  "2022"
