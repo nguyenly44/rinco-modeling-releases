@@ -1,11 +1,12 @@
-﻿{
-    "version":  "2.0.2",
+{
+    "version":  "2.0.3",
     "releaseNotes":  [
-                         "Fixed Combine PDF failure when the add-in is loaded twice (bundle + Add-In Manager)",
-                         "Assembly resolvers no longer return copies from another load context"
+                         "Per-user installer: no admin rights required (installs to %AppData%)",
+                         "Fixed per-machine build failing on user-profile machines",
+                         "Uninstall the old admin version once to avoid a duplicate bundle"
                      ],
-    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.2/ApexModeling.msi",
+    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.3/ApexModeling.msi",
     "mandatory":  false,
-    "releaseDate":  "2026-10-14",
+    "releaseDate":  "2026-10-15",
     "minRevitVersion":  "2022"
 }
