@@ -1,12 +1,13 @@
 {
-    "version":  "2.0.3",
+    "version":  "2.0.4",
     "releaseNotes":  [
-                         "Per-user installer: no admin rights required (installs to %AppData%)",
-                         "Fixed per-machine build failing on user-profile machines",
-                         "Uninstall the old admin version once to avoid a duplicate bundle"
+                         "Export & Combine PDF enhancements and reliability fixes",
+                         "Automatic fallback when paper size is not matched (prevents crash)",
+                         "Auto cleanup of PCP and temporary image files during DWG export",
+                         "Safely handle file-in-use and access exceptions when saving combined PDF"
                      ],
-    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.3/ApexModeling.msi",
+    "downloadUrl":  "https://github.com/nguyenly44/rinco-modeling-releases/releases/download/v2.0.4/ApexModeling.msi",
     "mandatory":  false,
-    "releaseDate":  "2026-10-15",
+    "releaseDate":  "2026-10-16",
     "minRevitVersion":  "2022"
 }
